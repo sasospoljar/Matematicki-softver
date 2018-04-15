@@ -1,0 +1,15 @@
+Fibonacci
+============
+
+Ja sam kao temu uzeo Fibonaccijeve brojeve. Nakon kraćeg opisa o povjesti niza brojeva napisao sam par funkcija izračunavanja Fibonaccijevih brojeva, te sam usporedio vremena izvršavanja tih funkcija. Zatim sam usporedio brzinu izvođenja funkcija koje kreiraju listu fibonaccijevih brojeva.
+
+Dalje promatramo graf fib funkcije, te broj prostih brojeva u fibonaccijevom nizu.
+Također promatramo vezu između fib brojeva i zlatnog reza, koja je prikazana graficki.
+Imamo i funkciju pretrazivanja elemenata u sortiranoj listi cija se implementacija zasniva na fibonaccijevim brojevima.
+
+Imamo prikaz Fibnaccijeve spirale u 2d konstruirane pomoću matplotlib biblioteke. 
+Prikazana je i veza između fib brojeva i pascalovog trokuta. Te na kraju smo pomocu turtle biblioteke prikazali konstrukciju fibonaccijeve spirale. 
+Za sam kraj imamo i nekoliko slika gdje vidimo gdje se sve u prirodi susrećemo s jednim od najpoznatijih nizova brojeva.
+
+Sašo Špoljar
+
